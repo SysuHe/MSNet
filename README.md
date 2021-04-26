@@ -1,7 +1,7 @@
 # MSNet
 
 ## Operating environment
-The source code is compiled on the Windows 10 platform using Python 3.6. The dependencies include:
+The source code is compiled on the Windows 10 platform using Python 3.8. The dependencies include:
 > pytorch: 1.7, framework </br>
 > pandas: used for csv I/O </br>
 > numpy: used for array operations </br>
